@@ -1,0 +1,11 @@
+D:\Visual Studio\C#\Pemrograman Lanjut\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe.config
+D:\Visual Studio\C#\Pemrograman Lanjut\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe
+D:\Visual Studio\C#\Pemrograman Lanjut\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.pdb
+D:\Visual Studio\C#\Pemrograman Lanjut\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorMachine.dll
+D:\Visual Studio\C#\Pemrograman Lanjut\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorMachine.pdb
+D:\Visual Studio\C#\Pemrograman Lanjut\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.AssemblyReference.cache
+D:\Visual Studio\C#\Pemrograman Lanjut\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio\C#\Pemrograman Lanjut\CalculatorApp\CalculatorConsoleApp\obj\Debug\Calculat.36A65C41.Up2Date
+D:\Visual Studio\C#\Pemrograman Lanjut\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.exe
+D:\Visual Studio\C#\Pemrograman Lanjut\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.pdb
+D:\Visual Studio\C#\Pemrograman Lanjut\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.exe.config

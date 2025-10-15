@@ -1,0 +1,6 @@
+D:\Visual Studio\C#\Pemrograman Lanjut\CalculatorApp\CalculatorMachine\bin\Debug\CalculatorMachine.dll
+D:\Visual Studio\C#\Pemrograman Lanjut\CalculatorApp\CalculatorMachine\bin\Debug\CalculatorMachine.pdb
+D:\Visual Studio\C#\Pemrograman Lanjut\CalculatorApp\CalculatorMachine\obj\Debug\CalculatorMachine.csproj.AssemblyReference.cache
+D:\Visual Studio\C#\Pemrograman Lanjut\CalculatorApp\CalculatorMachine\obj\Debug\CalculatorMachine.csproj.CoreCompileInputs.cache
+D:\Visual Studio\C#\Pemrograman Lanjut\CalculatorApp\CalculatorMachine\obj\Debug\CalculatorMachine.dll
+D:\Visual Studio\C#\Pemrograman Lanjut\CalculatorApp\CalculatorMachine\obj\Debug\CalculatorMachine.pdb
