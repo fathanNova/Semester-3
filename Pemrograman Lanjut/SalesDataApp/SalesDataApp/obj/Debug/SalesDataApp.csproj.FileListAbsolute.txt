@@ -1,0 +1,11 @@
+D:\Visual Studio\C#\Pemrograman Lanjut\SalesDataApp\SalesDataApp\bin\Debug\SalesDataApp.exe.config
+D:\Visual Studio\C#\Pemrograman Lanjut\SalesDataApp\SalesDataApp\bin\Debug\SalesDataApp.exe
+D:\Visual Studio\C#\Pemrograman Lanjut\SalesDataApp\SalesDataApp\bin\Debug\SalesDataApp.pdb
+D:\Visual Studio\C#\Pemrograman Lanjut\SalesDataApp\SalesDataApp\obj\Debug\SalesDataApp.csproj.AssemblyReference.cache
+D:\Visual Studio\C#\Pemrograman Lanjut\SalesDataApp\SalesDataApp\obj\Debug\SalesDataApp.DataPenjualan.resources
+D:\Visual Studio\C#\Pemrograman Lanjut\SalesDataApp\SalesDataApp\obj\Debug\SalesDataApp.Properties.Resources.resources
+D:\Visual Studio\C#\Pemrograman Lanjut\SalesDataApp\SalesDataApp\obj\Debug\SalesDataApp.csproj.GenerateResource.cache
+D:\Visual Studio\C#\Pemrograman Lanjut\SalesDataApp\SalesDataApp\obj\Debug\SalesDataApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio\C#\Pemrograman Lanjut\SalesDataApp\SalesDataApp\obj\Debug\SalesDataApp.exe
+D:\Visual Studio\C#\Pemrograman Lanjut\SalesDataApp\SalesDataApp\obj\Debug\SalesDataApp.pdb
+D:\Visual Studio\C#\Pemrograman Lanjut\SalesDataApp\SalesDataApp\obj\Debug\SalesDataApp.exe.config
