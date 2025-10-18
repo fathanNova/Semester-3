@@ -41,22 +41,22 @@
             this.txtNo5 = new System.Windows.Forms.TextBox();
             this.txtSub5 = new System.Windows.Forms.TextBox();
             this.txtHarga5 = new System.Windows.Forms.TextBox();
-            this.comboBox3 = new System.Windows.Forms.ComboBox();
+            this.cmbJenisBarang5 = new System.Windows.Forms.ComboBox();
             this.nudJumlah5 = new System.Windows.Forms.NumericUpDown();
             this.txtNo4 = new System.Windows.Forms.TextBox();
             this.txtSub4 = new System.Windows.Forms.TextBox();
             this.txtHarga4 = new System.Windows.Forms.TextBox();
-            this.comboBox4 = new System.Windows.Forms.ComboBox();
+            this.cmbJenisBarang4 = new System.Windows.Forms.ComboBox();
             this.nudJumlah4 = new System.Windows.Forms.NumericUpDown();
             this.txtNo3 = new System.Windows.Forms.TextBox();
             this.txtSub3 = new System.Windows.Forms.TextBox();
             this.txtHarga3 = new System.Windows.Forms.TextBox();
-            this.comboBox2 = new System.Windows.Forms.ComboBox();
+            this.cmbJenisBarang3 = new System.Windows.Forms.ComboBox();
             this.nudJumlah3 = new System.Windows.Forms.NumericUpDown();
             this.txtNo2 = new System.Windows.Forms.TextBox();
             this.txtSub2 = new System.Windows.Forms.TextBox();
             this.txtHarga2 = new System.Windows.Forms.TextBox();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.cmbJenisBarang2 = new System.Windows.Forms.ComboBox();
             this.nudJumlah2 = new System.Windows.Forms.NumericUpDown();
             this.txtNo = new System.Windows.Forms.TextBox();
             this.txtSub = new System.Windows.Forms.TextBox();
@@ -161,22 +161,22 @@
             this.groupBox1.Controls.Add(this.txtNo5);
             this.groupBox1.Controls.Add(this.txtSub5);
             this.groupBox1.Controls.Add(this.txtHarga5);
-            this.groupBox1.Controls.Add(this.comboBox3);
+            this.groupBox1.Controls.Add(this.cmbJenisBarang5);
             this.groupBox1.Controls.Add(this.nudJumlah5);
             this.groupBox1.Controls.Add(this.txtNo4);
             this.groupBox1.Controls.Add(this.txtSub4);
             this.groupBox1.Controls.Add(this.txtHarga4);
-            this.groupBox1.Controls.Add(this.comboBox4);
+            this.groupBox1.Controls.Add(this.cmbJenisBarang4);
             this.groupBox1.Controls.Add(this.nudJumlah4);
             this.groupBox1.Controls.Add(this.txtNo3);
             this.groupBox1.Controls.Add(this.txtSub3);
             this.groupBox1.Controls.Add(this.txtHarga3);
-            this.groupBox1.Controls.Add(this.comboBox2);
+            this.groupBox1.Controls.Add(this.cmbJenisBarang3);
             this.groupBox1.Controls.Add(this.nudJumlah3);
             this.groupBox1.Controls.Add(this.txtNo2);
             this.groupBox1.Controls.Add(this.txtSub2);
             this.groupBox1.Controls.Add(this.txtHarga2);
-            this.groupBox1.Controls.Add(this.comboBox1);
+            this.groupBox1.Controls.Add(this.cmbJenisBarang2);
             this.groupBox1.Controls.Add(this.nudJumlah2);
             this.groupBox1.Controls.Add(this.txtNo);
             this.groupBox1.Controls.Add(this.txtSub);
@@ -200,6 +200,7 @@
             this.txtNo5.Name = "txtNo5";
             this.txtNo5.Size = new System.Drawing.Size(23, 20);
             this.txtNo5.TabIndex = 32;
+            this.txtNo5.Text = "5";
             this.txtNo5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // txtSub5
@@ -217,20 +218,20 @@
             this.txtHarga5.Size = new System.Drawing.Size(81, 20);
             this.txtHarga5.TabIndex = 30;
             // 
-            // comboBox3
+            // cmbJenisBarang5
             // 
-            this.comboBox3.FormattingEnabled = true;
-            this.comboBox3.Items.AddRange(new object[] {
+            this.cmbJenisBarang5.FormattingEnabled = true;
+            this.cmbJenisBarang5.Items.AddRange(new object[] {
             "Elektronik",
             "Perabot",
             "Pakaian",
             "Makanan",
             "Minuman"});
-            this.comboBox3.Location = new System.Drawing.Point(53, 146);
-            this.comboBox3.Name = "comboBox3";
-            this.comboBox3.Size = new System.Drawing.Size(106, 21);
-            this.comboBox3.TabIndex = 29;
-            this.comboBox3.Text = "Pilih Salah Satu";
+            this.cmbJenisBarang5.Location = new System.Drawing.Point(53, 146);
+            this.cmbJenisBarang5.Name = "cmbJenisBarang5";
+            this.cmbJenisBarang5.Size = new System.Drawing.Size(106, 21);
+            this.cmbJenisBarang5.TabIndex = 29;
+            this.cmbJenisBarang5.Text = "Pilih Salah Satu";
             // 
             // nudJumlah5
             // 
@@ -245,6 +246,7 @@
             this.txtNo4.Name = "txtNo4";
             this.txtNo4.Size = new System.Drawing.Size(23, 20);
             this.txtNo4.TabIndex = 27;
+            this.txtNo4.Text = "4";
             this.txtNo4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // txtSub4
@@ -262,20 +264,20 @@
             this.txtHarga4.Size = new System.Drawing.Size(81, 20);
             this.txtHarga4.TabIndex = 25;
             // 
-            // comboBox4
+            // cmbJenisBarang4
             // 
-            this.comboBox4.FormattingEnabled = true;
-            this.comboBox4.Items.AddRange(new object[] {
+            this.cmbJenisBarang4.FormattingEnabled = true;
+            this.cmbJenisBarang4.Items.AddRange(new object[] {
             "Elektronik",
             "Perabot",
             "Pakaian",
             "Makanan",
             "Minuman"});
-            this.comboBox4.Location = new System.Drawing.Point(53, 120);
-            this.comboBox4.Name = "comboBox4";
-            this.comboBox4.Size = new System.Drawing.Size(106, 21);
-            this.comboBox4.TabIndex = 24;
-            this.comboBox4.Text = "Pilih Salah Satu";
+            this.cmbJenisBarang4.Location = new System.Drawing.Point(53, 120);
+            this.cmbJenisBarang4.Name = "cmbJenisBarang4";
+            this.cmbJenisBarang4.Size = new System.Drawing.Size(106, 21);
+            this.cmbJenisBarang4.TabIndex = 24;
+            this.cmbJenisBarang4.Text = "Pilih Salah Satu";
             // 
             // nudJumlah4
             // 
@@ -290,6 +292,7 @@
             this.txtNo3.Name = "txtNo3";
             this.txtNo3.Size = new System.Drawing.Size(23, 20);
             this.txtNo3.TabIndex = 22;
+            this.txtNo3.Text = "3";
             this.txtNo3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // txtSub3
@@ -307,20 +310,20 @@
             this.txtHarga3.Size = new System.Drawing.Size(81, 20);
             this.txtHarga3.TabIndex = 20;
             // 
-            // comboBox2
+            // cmbJenisBarang3
             // 
-            this.comboBox2.FormattingEnabled = true;
-            this.comboBox2.Items.AddRange(new object[] {
+            this.cmbJenisBarang3.FormattingEnabled = true;
+            this.cmbJenisBarang3.Items.AddRange(new object[] {
             "Elektronik",
             "Perabot",
             "Pakaian",
             "Makanan",
             "Minuman"});
-            this.comboBox2.Location = new System.Drawing.Point(53, 94);
-            this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(106, 21);
-            this.comboBox2.TabIndex = 19;
-            this.comboBox2.Text = "Pilih Salah Satu";
+            this.cmbJenisBarang3.Location = new System.Drawing.Point(53, 94);
+            this.cmbJenisBarang3.Name = "cmbJenisBarang3";
+            this.cmbJenisBarang3.Size = new System.Drawing.Size(106, 21);
+            this.cmbJenisBarang3.TabIndex = 19;
+            this.cmbJenisBarang3.Text = "Pilih Salah Satu";
             // 
             // nudJumlah3
             // 
@@ -335,6 +338,7 @@
             this.txtNo2.Name = "txtNo2";
             this.txtNo2.Size = new System.Drawing.Size(23, 20);
             this.txtNo2.TabIndex = 17;
+            this.txtNo2.Text = "2";
             this.txtNo2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // txtSub2
@@ -352,20 +356,20 @@
             this.txtHarga2.Size = new System.Drawing.Size(81, 20);
             this.txtHarga2.TabIndex = 15;
             // 
-            // comboBox1
+            // cmbJenisBarang2
             // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Items.AddRange(new object[] {
+            this.cmbJenisBarang2.FormattingEnabled = true;
+            this.cmbJenisBarang2.Items.AddRange(new object[] {
             "Elektronik",
             "Perabot",
             "Pakaian",
             "Makanan",
             "Minuman"});
-            this.comboBox1.Location = new System.Drawing.Point(53, 68);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(106, 21);
-            this.comboBox1.TabIndex = 14;
-            this.comboBox1.Text = "Pilih Salah Satu";
+            this.cmbJenisBarang2.Location = new System.Drawing.Point(53, 68);
+            this.cmbJenisBarang2.Name = "cmbJenisBarang2";
+            this.cmbJenisBarang2.Size = new System.Drawing.Size(106, 21);
+            this.cmbJenisBarang2.TabIndex = 14;
+            this.cmbJenisBarang2.Text = "Pilih Salah Satu";
             // 
             // nudJumlah2
             // 
@@ -380,6 +384,7 @@
             this.txtNo.Name = "txtNo";
             this.txtNo.Size = new System.Drawing.Size(23, 20);
             this.txtNo.TabIndex = 12;
+            this.txtNo.Text = "1";
             this.txtNo.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // txtSub
@@ -469,6 +474,7 @@
             this.btnReset.TabIndex = 14;
             this.btnReset.Text = "Reset";
             this.btnReset.UseVisualStyleBackColor = true;
+            this.btnReset.Click += new System.EventHandler(this.btnReset_Click);
             // 
             // btnSimpan
             // 
@@ -498,6 +504,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "DataPenjualan";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "Data Penjualan";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
@@ -538,22 +545,22 @@
         private System.Windows.Forms.TextBox txtNo3;
         private System.Windows.Forms.TextBox txtSub3;
         private System.Windows.Forms.TextBox txtHarga3;
-        private System.Windows.Forms.ComboBox comboBox2;
+        private System.Windows.Forms.ComboBox cmbJenisBarang3;
         private System.Windows.Forms.NumericUpDown nudJumlah3;
         private System.Windows.Forms.TextBox txtNo2;
         private System.Windows.Forms.TextBox txtSub2;
         private System.Windows.Forms.TextBox txtHarga2;
-        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.ComboBox cmbJenisBarang2;
         private System.Windows.Forms.NumericUpDown nudJumlah2;
         private System.Windows.Forms.TextBox txtNo5;
         private System.Windows.Forms.TextBox txtSub5;
         private System.Windows.Forms.TextBox txtHarga5;
-        private System.Windows.Forms.ComboBox comboBox3;
+        private System.Windows.Forms.ComboBox cmbJenisBarang5;
         private System.Windows.Forms.NumericUpDown nudJumlah5;
         private System.Windows.Forms.TextBox txtNo4;
         private System.Windows.Forms.TextBox txtSub4;
         private System.Windows.Forms.TextBox txtHarga4;
-        private System.Windows.Forms.ComboBox comboBox4;
+        private System.Windows.Forms.ComboBox cmbJenisBarang4;
         private System.Windows.Forms.NumericUpDown nudJumlah4;
     }
 }
