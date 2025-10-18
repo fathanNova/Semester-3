@@ -1,0 +1,11 @@
+D:\Visual Studio\C#\Pemrograman Lanjut\TugasTiga1\TugasTiga1\bin\Debug\TugasTiga1.exe.config
+D:\Visual Studio\C#\Pemrograman Lanjut\TugasTiga1\TugasTiga1\bin\Debug\TugasTiga1.exe
+D:\Visual Studio\C#\Pemrograman Lanjut\TugasTiga1\TugasTiga1\bin\Debug\TugasTiga1.pdb
+D:\Visual Studio\C#\Pemrograman Lanjut\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.csproj.AssemblyReference.cache
+D:\Visual Studio\C#\Pemrograman Lanjut\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.frmTugasTigaSatu.resources
+D:\Visual Studio\C#\Pemrograman Lanjut\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.Properties.Resources.resources
+D:\Visual Studio\C#\Pemrograman Lanjut\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.csproj.GenerateResource.cache
+D:\Visual Studio\C#\Pemrograman Lanjut\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.csproj.CoreCompileInputs.cache
+D:\Visual Studio\C#\Pemrograman Lanjut\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.exe
+D:\Visual Studio\C#\Pemrograman Lanjut\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.pdb
+D:\Visual Studio\C#\Pemrograman Lanjut\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.exe.config

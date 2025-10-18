@@ -1,0 +1,11 @@
+D:\Visual Studio\C#\Pemrograman Lanjut\WelcomeApp\WelcomeApp\bin\Debug\WelcomeApp.exe.config
+D:\Visual Studio\C#\Pemrograman Lanjut\WelcomeApp\WelcomeApp\bin\Debug\WelcomeApp.exe
+D:\Visual Studio\C#\Pemrograman Lanjut\WelcomeApp\WelcomeApp\bin\Debug\WelcomeApp.pdb
+D:\Visual Studio\C#\Pemrograman Lanjut\WelcomeApp\WelcomeApp\obj\Debug\WelcomeApp.csproj.AssemblyReference.cache
+D:\Visual Studio\C#\Pemrograman Lanjut\WelcomeApp\WelcomeApp\obj\Debug\WelcomeApp.frmSelamatDatang.resources
+D:\Visual Studio\C#\Pemrograman Lanjut\WelcomeApp\WelcomeApp\obj\Debug\WelcomeApp.Properties.Resources.resources
+D:\Visual Studio\C#\Pemrograman Lanjut\WelcomeApp\WelcomeApp\obj\Debug\WelcomeApp.csproj.GenerateResource.cache
+D:\Visual Studio\C#\Pemrograman Lanjut\WelcomeApp\WelcomeApp\obj\Debug\WelcomeApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio\C#\Pemrograman Lanjut\WelcomeApp\WelcomeApp\obj\Debug\WelcomeApp.exe
+D:\Visual Studio\C#\Pemrograman Lanjut\WelcomeApp\WelcomeApp\obj\Debug\WelcomeApp.pdb
+D:\Visual Studio\C#\Pemrograman Lanjut\WelcomeApp\WelcomeApp\obj\Debug\WelcomeApp.exe.config
