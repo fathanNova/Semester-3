@@ -12,3 +12,17 @@ D:\Visual Studio\C#\Pemrograman Lanjut\CalculatorApp\CalculatorApp\obj\Debug\Cal
 D:\Visual Studio\C#\Pemrograman Lanjut\CalculatorApp\CalculatorApp\bin\Debug\CalculatorMachine.dll
 D:\Visual Studio\C#\Pemrograman Lanjut\CalculatorApp\CalculatorApp\bin\Debug\CalculatorMachine.pdb
 D:\Visual Studio\C#\Pemrograman Lanjut\CalculatorApp\CalculatorApp\obj\Debug\Calculat.C0507999.Up2Date
+D:\Github\Semester-3\Pemrograman Lanjut\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+D:\Github\Semester-3\Pemrograman Lanjut\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+D:\Github\Semester-3\Pemrograman Lanjut\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+D:\Github\Semester-3\Pemrograman Lanjut\CalculatorApp\CalculatorApp\bin\Debug\CalculatorMachine.dll
+D:\Github\Semester-3\Pemrograman Lanjut\CalculatorApp\CalculatorApp\bin\Debug\CalculatorMachine.pdb
+D:\Github\Semester-3\Pemrograman Lanjut\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+D:\Github\Semester-3\Pemrograman Lanjut\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe.config
+D:\Github\Semester-3\Pemrograman Lanjut\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
+D:\Github\Semester-3\Pemrograman Lanjut\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+D:\Github\Semester-3\Pemrograman Lanjut\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+D:\Github\Semester-3\Pemrograman Lanjut\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\Github\Semester-3\Pemrograman Lanjut\CalculatorApp\CalculatorApp\obj\Debug\Calculat.C0507999.Up2Date
+D:\Github\Semester-3\Pemrograman Lanjut\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+D:\Github\Semester-3\Pemrograman Lanjut\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb

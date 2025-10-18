@@ -27,49 +27,53 @@ namespace CalculatorApp
 
             lstHasil.Items.Clear();
 
-            // Menampilkan semua hasil operasi
-            /*lstHasil.Items.Add(string.Format("Hasil Penambahan: {0} + {1} = {2} ", numA, numB, calc.Penambahan(numA, numB) + "\n"));
-            lstHasil.Items.Add(string.Format("Hasil Pengurangan: {0} - {1} = {2} ", numA, numB, calc.Pengurangan(numA, numB) + "\n"));
-            lstHasil.Items.Add(string.Format("Hasil Perkalian: {0} x {1} = {2} ", numA, numB, calc.Perkalian(numA, numB) + "\n"));
-            lstHasil.Items.Add(string.Format("Hasil Pembagian: {0} + {1} = {2} ", numA, numB, calc.Pembagian(numA, numB) + "\n"));*/
-
             // Menampilkan hasil berdasarkan metode yang dipilih
             string metode = comboBox1.Text;
 
              double hasil = 0;
+             bool check = false;
 
              if (metode == "Penambahan")
              {
                  hasil = calc.Penambahan(numA, numB);
+                 check = true;
              }
              else if (metode == "Pengurangan")
              {
                  hasil = calc.Pengurangan(numA, numB);
+                 check = true;
              }
              else if (metode == "Perkalian")
              {
                  hasil = calc.Perkalian(numA, numB);
-             }
+                 check = true;
+            }
              else if (metode == "Pembagian")
              {
                  hasil = calc.Pembagian(numA, numB);
-             }
+                 check = true;
+            }
              else
              {
-                 MessageBox.Show("Silahkan Pilih Metode Terlebih Dahulu.");
-             }
-
-                 //lstHasil.Items.Add("Hasil: " + hasil + "\n");
-                 textBox3.Text = hasil.ToString();
-
-
-
+                // Menampilkan semua hasil operasi
+                lstHasil.Items.Add(string.Format("Hasil Penambahan: {0} + {1} = {2} ", numA, numB, calc.Penambahan(numA, numB) + "\n"));
+                lstHasil.Items.Add(string.Format("Hasil Pengurangan: {0} - {1} = {2} ", numA, numB, calc.Pengurangan(numA, numB) + "\n"));
+                lstHasil.Items.Add(string.Format("Hasil Perkalian: {0} x {1} = {2} ", numA, numB, calc.Perkalian(numA, numB) + "\n"));
+                lstHasil.Items.Add(string.Format("Hasil Pembagian: {0} + {1} = {2} ", numA, numB, calc.Pembagian(numA, numB) + "\n"));
+            }
+            if (check)
+            {
+                textBox3.Text = hasil.ToString();
+            }
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             lstHasil.Items.Clear();
             textBox3.Clear();
+            textBox2.Clear();
+            textBox1.Clear();
+            comboBox1.Text = "-- Pilih Metode --";
         }
 
         
