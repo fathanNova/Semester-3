@@ -1,0 +1,11 @@
+D:\Visual Studio\C#\Pemrograman Lanjut\RunningText\RunningText\bin\Debug\RunningText.exe.config
+D:\Visual Studio\C#\Pemrograman Lanjut\RunningText\RunningText\bin\Debug\RunningText.exe
+D:\Visual Studio\C#\Pemrograman Lanjut\RunningText\RunningText\bin\Debug\RunningText.pdb
+D:\Visual Studio\C#\Pemrograman Lanjut\RunningText\RunningText\obj\Debug\RunningText.csproj.AssemblyReference.cache
+D:\Visual Studio\C#\Pemrograman Lanjut\RunningText\RunningText\obj\Debug\RunningText.frmTulisanBerjalan.resources
+D:\Visual Studio\C#\Pemrograman Lanjut\RunningText\RunningText\obj\Debug\RunningText.Properties.Resources.resources
+D:\Visual Studio\C#\Pemrograman Lanjut\RunningText\RunningText\obj\Debug\RunningText.csproj.GenerateResource.cache
+D:\Visual Studio\C#\Pemrograman Lanjut\RunningText\RunningText\obj\Debug\RunningText.csproj.CoreCompileInputs.cache
+D:\Visual Studio\C#\Pemrograman Lanjut\RunningText\RunningText\obj\Debug\RunningText.exe
+D:\Visual Studio\C#\Pemrograman Lanjut\RunningText\RunningText\obj\Debug\RunningText.pdb
+D:\Visual Studio\C#\Pemrograman Lanjut\RunningText\RunningText\obj\Debug\RunningText.exe.config
