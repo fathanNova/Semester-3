@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio\\C#\\Pemrograman Lanjut\\AplikasiDataMahasiswa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE56A78-DA3A-4C4C-B7D0-753D6BB114A5}|AplikasiDataMahasiswa\\AplikasiDataMahasiswa.csproj|d:\\visual studio\\c#\\pemrograman lanjut\\aplikasidatamahasiswa\\aplikasidatamahasiswa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FE56A78-DA3A-4C4C-B7D0-753D6BB114A5}|AplikasiDataMahasiswa\\AplikasiDataMahasiswa.csproj|solutionrelative:aplikasidatamahasiswa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE56A78-DA3A-4C4C-B7D0-753D6BB114A5}|AplikasiDataMahasiswa\\AplikasiDataMahasiswa.csproj|D:\\Visual Studio\\C#\\Pemrograman Lanjut\\AplikasiDataMahasiswa\\aplikasidatamahasiswa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE56A78-DA3A-4C4C-B7D0-753D6BB114A5}|AplikasiDataMahasiswa\\AplikasiDataMahasiswa.csproj|solutionrelative:aplikasidatamahasiswa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE56A78-DA3A-4C4C-B7D0-753D6BB114A5}|AplikasiDataMahasiswa\\AplikasiDataMahasiswa.csproj|D:\\Visual Studio\\C#\\Pemrograman Lanjut\\AplikasiDataMahasiswa\\aplikasidatamahasiswa\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE56A78-DA3A-4C4C-B7D0-753D6BB114A5}|AplikasiDataMahasiswa\\AplikasiDataMahasiswa.csproj|solutionrelative:aplikasidatamahasiswa\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE56A78-DA3A-4C4C-B7D0-753D6BB114A5}|AplikasiDataMahasiswa\\AplikasiDataMahasiswa.csproj|d:\\visual studio\\c#\\pemrograman lanjut\\aplikasidatamahasiswa\\aplikasidatamahasiswa\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE56A78-DA3A-4C4C-B7D0-753D6BB114A5}|AplikasiDataMahasiswa\\AplikasiDataMahasiswa.csproj|solutionrelative:aplikasidatamahasiswa\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\C#\\Pemrograman Lanjut\\AplikasiDataMahasiswa\\AplikasiDataMahasiswa\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "AplikasiDataMahasiswa\\Form1.Designer.cs",
+              "ToolTip": "D:\\Visual Studio\\C#\\Pemrograman Lanjut\\AplikasiDataMahasiswa\\AplikasiDataMahasiswa\\Form1.Designer.cs",
+              "RelativeToolTip": "AplikasiDataMahasiswa\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:42:12.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\C#\\Pemrograman Lanjut\\AplikasiDataMahasiswa\\AplikasiDataMahasiswa\\Form1.cs",
+              "RelativeDocumentMoniker": "AplikasiDataMahasiswa\\Form1.cs",
+              "ToolTip": "D:\\Visual Studio\\C#\\Pemrograman Lanjut\\AplikasiDataMahasiswa\\AplikasiDataMahasiswa\\Form1.cs",
+              "RelativeToolTip": "AplikasiDataMahasiswa\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T08:44:23.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mahasiswa.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\C#\\Pemrograman Lanjut\\AplikasiDataMahasiswa\\AplikasiDataMahasiswa\\Mahasiswa.cs",
+              "RelativeDocumentMoniker": "AplikasiDataMahasiswa\\Mahasiswa.cs",
+              "ToolTip": "D:\\Visual Studio\\C#\\Pemrograman Lanjut\\AplikasiDataMahasiswa\\AplikasiDataMahasiswa\\Mahasiswa.cs",
+              "RelativeToolTip": "AplikasiDataMahasiswa\\Mahasiswa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T08:42:52.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Visual Studio\\C#\\Pemrograman Lanjut\\AplikasiDataMahasiswa\\AplikasiDataMahasiswa\\Form1.cs",
+              "RelativeDocumentMoniker": "AplikasiDataMahasiswa\\Form1.cs",
+              "ToolTip": "D:\\Visual Studio\\C#\\Pemrograman Lanjut\\AplikasiDataMahasiswa\\AplikasiDataMahasiswa\\Form1.cs [Design]",
+              "RelativeToolTip": "AplikasiDataMahasiswa\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T08:34:28.577Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

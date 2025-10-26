@@ -1,0 +1,11 @@
+D:\Visual Studio\C#\Pemrograman Lanjut\AplikasiDataMahasiswa\AplikasiDataMahasiswa\bin\Debug\AplikasiDataMahasiswa.exe.config
+D:\Visual Studio\C#\Pemrograman Lanjut\AplikasiDataMahasiswa\AplikasiDataMahasiswa\bin\Debug\AplikasiDataMahasiswa.exe
+D:\Visual Studio\C#\Pemrograman Lanjut\AplikasiDataMahasiswa\AplikasiDataMahasiswa\bin\Debug\AplikasiDataMahasiswa.pdb
+D:\Visual Studio\C#\Pemrograman Lanjut\AplikasiDataMahasiswa\AplikasiDataMahasiswa\obj\Debug\AplikasiDataMahasiswa.csproj.AssemblyReference.cache
+D:\Visual Studio\C#\Pemrograman Lanjut\AplikasiDataMahasiswa\AplikasiDataMahasiswa\obj\Debug\AplikasiDataMahasiswa.Form1.resources
+D:\Visual Studio\C#\Pemrograman Lanjut\AplikasiDataMahasiswa\AplikasiDataMahasiswa\obj\Debug\AplikasiDataMahasiswa.Properties.Resources.resources
+D:\Visual Studio\C#\Pemrograman Lanjut\AplikasiDataMahasiswa\AplikasiDataMahasiswa\obj\Debug\AplikasiDataMahasiswa.csproj.GenerateResource.cache
+D:\Visual Studio\C#\Pemrograman Lanjut\AplikasiDataMahasiswa\AplikasiDataMahasiswa\obj\Debug\AplikasiDataMahasiswa.csproj.CoreCompileInputs.cache
+D:\Visual Studio\C#\Pemrograman Lanjut\AplikasiDataMahasiswa\AplikasiDataMahasiswa\obj\Debug\AplikasiDataMahasiswa.exe
+D:\Visual Studio\C#\Pemrograman Lanjut\AplikasiDataMahasiswa\AplikasiDataMahasiswa\obj\Debug\AplikasiDataMahasiswa.pdb
+D:\Visual Studio\C#\Pemrograman Lanjut\AplikasiDataMahasiswa\AplikasiDataMahasiswa\obj\Debug\AplikasiDataMahasiswa.exe.config
